@@ -1,7 +1,7 @@
 php-jenkins-example
 ===================
 
-Proyecto de ejemplo para PHP Jenkins.
+Proyectos de ejemplo para PHP Jenkins.
 
 
 Configurar Jenkins
